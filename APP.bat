@@ -1,1 +1,1 @@
-cmd /k "conda activate tensorflow & streamlit run C:\Users\7OODA\Desktop\Employee_Attrition\APP2.py"
+cmd /k "conda activate tensorflow & streamlit run APP2.py"
