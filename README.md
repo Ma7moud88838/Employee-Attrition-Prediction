@@ -49,9 +49,13 @@ The goal is to understand the factors contributing to attrition and develop pred
 
 ## Exploratory Data Analysis (EDA)
 The EDA phase involves visualizing and analyzing the data to identify patterns and relationships between features. 
+
 ![ ](PowerBi_1.jpg)
+
 ![ ](PowerBi_2.jpg)
+
 ![ ](PowerBi_3.jpg)
+
 Visualizations were created using `Power BI`
 
 ## Modeling
@@ -66,14 +70,16 @@ The model's performance was evaluated using:
 ## Results
 
 ![Logistic Regression](Logistic_Regression.png)
+
 ![Decision Tree](Decision_Tree.png)
+
 ![Random Forest](Random_Forest.png)
+
 ![Gradient Boost](Gradient_Boost.png)
 
 The Gradient Boost model is the best.
 
 ## Conclusion
-
 This project demonstrates how exploratory data analysis and machine learning can be applied to historical datasets to derive insights and make predictions. While The Gradient Boost model provided good predictions, further improvement could be achieved by exploring more sophisticated models or additional feature engineering.
 
 ## Acknowledgements
